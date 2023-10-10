@@ -10,7 +10,7 @@ import flowers from './flowers.jpeg'
 function App() {
   return (
     <div className="App">
-      {/* Header component */}
+      {/* Header component **/}
       <Header title="React Beginner's Quiz" />
 
       <div className="card-container">
